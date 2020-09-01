@@ -1,0 +1,7 @@
+﻿  Test_002.cpp
+C:\Users\DH\Documents\Git\Study\Test\Test_002\Test_002.cpp(38,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\DH\Documents\Git\Study\Test\Test_002\Test_002.cpp(58,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\DH\Documents\Git\Study\Test\Test_002\Test_002.cpp(59,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\DH\Documents\Git\Study\Test\Test_002\Test_002.cpp(68,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\DH\Documents\Git\Study\Test\Test_002\Test_002.cpp(69,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Test_002.vcxproj -> C:\Users\DH\Documents\Git\Study\Test\Debug\Test_002.exe
